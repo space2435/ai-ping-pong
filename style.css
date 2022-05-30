@@ -1,0 +1,25 @@
+.heading{
+    text-align: center;
+    width: 100%;
+}
+
+.heading h3{
+    display : inline;
+}
+
+.heading button{
+    float: right;
+    border: 3px dotted white;
+}
+
+.big_image{
+    width: 100%
+}
+
+#start{
+    font-size: 24px;
+}
+
+#status{
+    font-size: 24px;
+}
